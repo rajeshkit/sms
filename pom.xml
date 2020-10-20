@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>RentMovie</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>RentMovie</name>
 	<description>Rent Movie project for Spring Boot for CDE BU training</description>
 
